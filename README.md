@@ -9,7 +9,7 @@ A Convolutional Neural Network (CNN) trained in Keras to recongnise facial expre
   <li> Surprise </li>
   <li> Neutral </li>
 </ul>
-<br><b>Dataset Used:</b> <a href="https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data">Facial Recognition Dataset</a><br><br>
+<b>Dataset Used:</b> <a href="https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data">Facial Recognition Dataset</a><br><br>
 For more details about the project, you may <a href="https://www.coursera.org/projects/facial-expression-recognition-keras">visit the site here</a>.
 # Certificate
 <a href="https://www.coursera.org/account/accomplishments/certificate/5Q4CBYSCUTQG">Verified Certificate</a>
